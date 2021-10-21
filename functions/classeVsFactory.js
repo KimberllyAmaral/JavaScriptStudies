@@ -20,3 +20,5 @@ const criarPessoa = nome => {
 
 const p2 = criarPessoa('João')
 p1.falar()
+
+// é possível criar objetos a partir de uma função construtora, uma classe e uma factory
